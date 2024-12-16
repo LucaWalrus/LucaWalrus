@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LucaWalrus
+- 👀 I’m interested in always learning new things 
+- 🌱 I’m currently in the process of studying python
+- 💞️ I’m looking to collaborate on any easy project you might have
